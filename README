@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2513
+
+There are a lot of good color schemes out there, but not many use good colors for vim itself (split, tabs, line numbers, etc...). This colorscheme is meant to be used in conjunction with an existing color scheme. It only highlights vim itself (not any code).
+
+Screenshot: http://chargedsoftware.com/~charged2885/files/charged-256.png
